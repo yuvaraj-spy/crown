@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1734449491,,"wq"
+|2,0,1734451049,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,63 @@
 # Registers:
 
 # File marks:
-'0  15  3  ~/file1.sh
-|4,48,15,3,1734449491,"~/file1.sh"
+'0  16  34  ~/jenkins.txt
+|4,48,16,34,1734451049,"~/jenkins.txt"
+'1  7  3  ~/files2.sh
+|4,49,7,3,1734450298,"~/files2.sh"
+'2  15  3  ~/file1.sh
+|4,50,15,3,1734449491,"~/file1.sh"
 
 # Jumplist (newest first):
+-'  16  34  ~/jenkins.txt
+|4,39,16,34,1734451049,"~/jenkins.txt"
+-'  1  0  ~/jenkins.txt
+|4,39,1,0,1734450459,"~/jenkins.txt"
+-'  7  3  ~/files2.sh
+|4,39,7,3,1734450298,"~/files2.sh"
+-'  7  3  ~/files2.sh
+|4,39,7,3,1734450298,"~/files2.sh"
+-'  1  0  ~/files2.sh
+|4,39,1,0,1734450267,"~/files2.sh"
+-'  1  0  ~/files2.sh
+|4,39,1,0,1734450267,"~/files2.sh"
+-'  15  3  ~/file1.sh
+|4,39,15,3,1734449491,"~/file1.sh"
+-'  15  3  ~/file1.sh
+|4,39,15,3,1734449491,"~/file1.sh"
+-'  15  3  ~/file1.sh
+|4,39,15,3,1734449491,"~/file1.sh"
 -'  15  3  ~/file1.sh
 |4,39,15,3,1734449491,"~/file1.sh"
 -'  1  0  ~/file1.sh
 |4,39,1,0,1734449364,"~/file1.sh"
+-'  1  0  ~/file1.sh
+|4,39,1,0,1734449364,"~/file1.sh"
+-'  1  0  ~/file1.sh
+|4,39,1,0,1734449364,"~/file1.sh"
+-'  1  0  ~/file1.sh
+|4,39,1,0,1734449364,"~/file1.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/jenkins.txt
+	*	1734451045	0
+	"	16	34
+	^	16	35
+	.	16	35
+	+	20	0
+	+	14	59
+	+	14	20
+	+	7	23
+	+	9	34
+	+	16	35
+
+> ~/files2.sh
+	*	1734450295	0
+	"	7	3
+	^	7	4
+	.	7	3
+	+	7	3
 
 > ~/file1.sh
 	*	1734449487	0
